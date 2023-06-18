@@ -38,7 +38,7 @@ public class Movement : MonoBehaviour
 
         if (coll.gameObject.CompareTag("Ground"))
         {
-            Debug.Log("welp touched the ground");
+            Debug.Log("Touched the ground");
         }
     }
 }
